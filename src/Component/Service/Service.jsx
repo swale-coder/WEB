@@ -1,6 +1,7 @@
 import React from "react";
 import "./Service.css"; // styles for service section
-import { FaCode, FaPaintBrush, FaChartLine } from "react-icons/fa"; // icons
+import { FaCode, FaPaintBrush, FaChartLine } from "react-icons/fa";
+
 
 const Service = () => {
   const services = [
